@@ -1,0 +1,39 @@
+
+.line{
+    color:rebeccapurple ;
+}
+
+button{
+    width: 100px;
+    height:100px;
+    background-color: goldenrod; 
+    border-radius:30px;/* Green */
+}
+.list{
+    display: flex;
+    flex-wrap: wrap ;
+    justify-content: space-evenly;
+}
+
+.color{
+    color:goldenrod;
+}
+
+.font{
+    font-size: larger;
+    color: goldenrod;
+    font-style: italic;
+    font-stretch: wider;
+    font-weight: 900;
+
+}
+title{
+    font-style: italic;
+}
+h1{
+    color: cyan;
+}
+
+body{
+    background-image: url('back.jpg');
+}
